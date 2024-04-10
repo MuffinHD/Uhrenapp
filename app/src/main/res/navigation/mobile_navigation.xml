@@ -12,10 +12,10 @@
         tools:layout="@layout/fragment_home" />
 
     <fragment
-        android:id="@+id/navigation_dashboard"
-        android:name="com.example.myapplication.ui.dashboard.DashboardFragment"
-        android:label="@string/title_dashboard"
-        tools:layout="@layout/fragment_dashboard" />
+        android:id="@+id/navigation_stopclock"
+        android:name="com.example.myapplication.ui.stopclock.StopclockFragment"
+        android:label="@string/title_stopclock"
+        tools:layout="@layout/fragment_stopclock" />
 
     <fragment
         android:id="@+id/navigation_notifications"
